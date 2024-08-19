@@ -18,7 +18,7 @@ ul{
 .container{
     width:calc(100% - 120px);
     margin: auto;
-    background-color: blueviolet;
+   
 }
 .row{
     display: flex;
